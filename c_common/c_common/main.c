@@ -2,8 +2,12 @@
 #include <stdio.h>
 
 int main(int args, const char* argv[]){
-    
-    int a = 10;
+   
+   printf("Hello World");   
+   getchar();
+   
+   return 0; 
+ /*    int a = 10;
     int b = 20;
     int even = 0;
     
@@ -23,7 +27,7 @@ int main(int args, const char* argv[]){
     printf("and reminder well be %d, by the way.\n", 100 % input);
     
     
-    return 0;
+    return 0; */
 }
     
     
